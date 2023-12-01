@@ -1,9 +1,7 @@
 # Dynamic-Web-Scraping
 Dynamic Web Scraping using Python + Selenium Web Driver + BS4 
 
-Python + BS4 are great for scraping static content however I needed to scrape dynamic content from multiple pages.
-So I used Selenium Web Driver to reach each web page individually and scraped necessary content by using html & css tags.
-Then I saved the scraped content to a csv file.
+Python + BS4 are great for scraping static content however I needed to scrape dynamic content from multiple pages.<br/> So I used Selenium Web Driver to reach each web page individually and scraped necessary content by using html & css tags.<br/> Then I saved the scraped content to a csv file.
 
 You need to change web page and necessary tags to make it usable for your case.
 
